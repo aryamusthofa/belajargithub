@@ -2,6 +2,13 @@
 
 <img src="path/ke/gambar/proyek.png" alt="Gambar Proyek Anda" width="100%">
 
+NOTE: PROJECT ADA DI LINK DIBAWAH
+
+## LINK PROJECT:
+
+1. "https://aryamusthofa.github.io/belajargithub/newfileproj.html"
+2. "https://aryamusthofa.github.io/belajargithub/projectone.html"
+
 ## Deskripsi Singkat
 
 [Tulis deskripsi singkat tentang proyek Anda di sini. Jelaskan tujuan dan fitur utama proyek.]
