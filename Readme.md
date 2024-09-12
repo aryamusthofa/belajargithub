@@ -6,8 +6,8 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 
 ## LINK PROJECT:
 
-1. ## "https://aryamusthofa.github.io/belajargithub/newfileproj.html"
-2. ## "https://aryamusthofa.github.io/belajargithub/projectone.html"
+## 1. https://aryamusthofa.github.io/belajargithub/newfileproj.html
+## 2. https://aryamusthofa.github.io/belajargithub/projectone.html
 
 ## Deskripsi Singkat
 
