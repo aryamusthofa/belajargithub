@@ -1,6 +1,6 @@
 # [Nama Proyek Anda]
 
-<img src="belajargithub/blob/master/blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
+<img src="belajargithub/blob/3febf36553285b6cd46bdba274f6128bfce02f4f/blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
 
 NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
 
@@ -25,19 +25,23 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 
 ## Deskripsi Singkat
 
-[Tulis deskripsi singkat tentang proyek Anda di sini. Jelaskan tujuan dan fitur utama proyek.]
+[Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code html dan css.]
 
 ## Fitur
 
-* [Fitur 1]
-* [Fitur 2]
-* [Fitur 3]
+* [Fitur 1 Pengisian Form dan Pewarnaan Website]
+* [Fitur 2 Tombol Herf Link dan Tulisan Bergerak]
+* [Fitur 3 Besar Kecil Ukuran Text dan Tipenya]
 
 ## Screenshot
 
-<img src="path/ke/screenshot/1.png" alt="Screenshot 1" width="50%"> <img src="path/ke/screenshot/2.png" alt="Screenshot 2" width="50%">
+<img src="blokbata.jpg" alt="Screenshot 1" width="50%"> <img src="blokbata.jpg" alt="Screenshot 2" width="50%">
 
 ## Instalasi
+
+note: NGGAK TERLALU PENTING
+
+lupakan saja, soalnya sedang proses updating
 
 ```bash
 # Install dependensi
