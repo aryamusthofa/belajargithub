@@ -12,7 +12,8 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
             <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/newfileproj.html</font>
         </a>
 </head>
-## 2. <head>
+## 2. 
+<head>
             <a href="https://aryamusthofa.github.io/belajargithub/projectone.html">
             <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/projectone.html</font>
         </a>
