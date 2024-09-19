@@ -6,18 +6,23 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 
 ## LINK PROJECT:
 
-## 1. 
+## 
 <head>
             <a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html">
             <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/newfileproj.html</font>
         </a>
 </head>
-## 2. 
+
 <head>
             <a href="https://aryamusthofa.github.io/belajargithub/projectone.html">
             <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/projectone.html</font>
         </a>
 </head>
+
+<head>
+            p
+</head>
+
 ## Deskripsi Singkat
 
 [Tulis deskripsi singkat tentang proyek Anda di sini. Jelaskan tujuan dan fitur utama proyek.]
