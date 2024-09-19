@@ -1,12 +1,14 @@
 # [Nama Proyek Anda]
 
-<img src="path/ke/gambar/proyek.png" alt="Gambar Proyek Anda" width="100%">
+<img src="belajargithub/blob/master/blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
 
 NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
 
 ## LINK PROJECT:
 
-## 1. https://aryamusthofa.github.io/belajargithub/newfileproj.html
+## 1. <a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html">
+            <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/newfileproj.html</font>
+        </a>
 ## 2. https://aryamusthofa.github.io/belajargithub/projectone.html
 
 ## Deskripsi Singkat
