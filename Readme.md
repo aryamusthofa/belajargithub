@@ -1,6 +1,6 @@
 # [Nama Proyek Anda]
 
-<img src="belajargithub/blob/3febf36553285b6cd46bdba274f6128bfce02f4f/blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
+<img src="blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
 
 NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
 
