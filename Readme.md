@@ -23,7 +23,7 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 </head>
 
 <head>
-            p
+            
 </head>
 
 ## Deskripsi Singkat
