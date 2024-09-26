@@ -2,25 +2,9 @@
 
 <img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">
 
-NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
-
-## LINK PROJECT:
-
-## 
-<head>
-            <a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html">
-            <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/newfileproj.html</font>
-        </a>
-</head>
-
-## 
-
-
-<head>
-            <a href="https://aryamusthofa.github.io/belajargithub/projectone.html">
-            <font color="graphite" face="helvetica">https://aryamusthofa.github.io/belajargithub/projectone.html</font>
-        </a>
-</head>
+<title>
+            ## NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
+</title>
 
 
 <h6>
@@ -60,9 +44,9 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 <body>  
     <div class="content">  
         <h1>Selamat Datang di Website Kami</h1>  
-        <p>Ini adalah contoh website dengan background gambar.</p>  
-        <p>Email: <a href="mailto:alamat@email.com" style="color: #1e88e5; text-decoration: none;">alamat@email.com</a></p>  
-        <p>Website: <a href="https://linkwebsite.com" target="_blank" style="color: #1e88e5; text-decoration: none;">linkwebsite.com</a></p>  
+        <p>Ini adalah Project Lain dari Saya, Silahkan Dikunjungi.</p>  
+        <p>Website 1 Saya: <a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html" style="color: #1e88e5; text-decoration: none;">PROJECT WEBSITE LAIN #1</a></p>  
+        <p>Website 2 Saya: <a href="https://aryamusthofa.github.io/belajargithub/projectone.html" target="_blank" style="color: #1e88e5; text-decoration: none;">PROJECT WEBSITE LAIN #2</a></p>  
     </div>  
 </body>  
 
