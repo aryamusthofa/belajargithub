@@ -29,7 +29,7 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
             <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
-            font-family: Qontra, Prime, Hyperbola, Radnika, Arial, sans-serif;
+            font-family: Qontra, 'Prime', 'Hyperbola', 'Radnika', 'Arial', 'Roboto', sans-serif;
                     head {  
             font-weight: 700;  
         }  
