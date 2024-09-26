@@ -1,4 +1,4 @@
-# [Nama Proyek Anda]
+# [Study With Web HTML and CSS in Github Project]
 
 <img src="blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
 
