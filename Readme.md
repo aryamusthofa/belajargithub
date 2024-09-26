@@ -29,7 +29,7 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #2b3432;
+            background-color: #ca99cf;
             margin: 0;
             padding: 80px;
         }
