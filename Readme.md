@@ -26,11 +26,10 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 <h6>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Form Pengisian ngetest Web</title>
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #40ff76;
+            background-color: #2b3432;
             margin: 0;
             padding: 80px;
         }
