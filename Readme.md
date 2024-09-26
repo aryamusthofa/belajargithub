@@ -63,6 +63,49 @@ note: NGGAK TERLALU PENTING
 
 lupakan saja, soalnya sedang proses updating
 
+
+<head>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <title>Informasi Kontak</title>  
+    <style>  
+        body {  
+            font-family: Arial, sans-serif;  
+            background-color: #f4f4f4;  
+            margin: 0;  
+            padding: 20px;  
+        }  
+        .contact-info {  
+            background-color: #fff;  
+            border-radius: 8px;  
+            padding: 20px;  
+            box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);  
+        }  
+        h2 {  
+            color: #333;  
+        }  
+        p {  
+            font-size: 16px;  
+            color: #666;  
+        }  
+        a {  
+            color: #1e88e5;  
+            text-decoration: none;  
+        }  
+        a:hover {  
+            text-decoration: underline;  
+        }  
+    </style>  
+</head>  
+<body>  
+    <div class="contact-info">  
+        <h2>Informasi Kontak</h2>  
+        <p>Email: <a href="mailto:alamat@email.com">alamat@email.com</a></p>  
+        <p>Website: <a href="https://linkwebsite.com" target="_blank">linkwebsite.com</a></p>  
+    </div>  
+</body>  
+
+
 ```bash
 # Install dependensi
 - -
@@ -132,6 +175,10 @@ Semoga README ini bermanfaat!
 11. **Catatan:** Berikan catatan tambahan untuk membantu pembaca memahami README.
 
 **Tips tambahan:**
+
+
+
+kkk
 
 * Gunakan gambar dengan kualitas tinggi dan ukuran yang optimal.
 * Buat desain yang mudah dibaca dan diakses.
