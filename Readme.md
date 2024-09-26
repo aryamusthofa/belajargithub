@@ -28,7 +28,7 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <style>
         body {
-            font-family: Arial, sans-serif;
+            font-family: Qontra, Prime, Hyperbola, Radnika, Arial, sans-serif;
             background-color: #ca99cf;
             margin: 0;
             padding: 80px;
