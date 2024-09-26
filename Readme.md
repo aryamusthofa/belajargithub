@@ -39,7 +39,7 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
             background-color: #ca99cf;
             margin: 0;
             padding: 80px;
-                    background-image: url('blokbata.jpg'); /* Ganti dengan path gambar Anda */  
+                    background-image: url('kotahytam.jpg'); /* Ganti dengan path gambar Anda */  
             background-size: cover; /* Menyesuaikan ukuran gambar agar menutupi seluruh background */  
             background-position: center; /* Memusatkan gambar */  
             background-repeat: no-repeat; /* Menghindari pengulangan gambar */  
