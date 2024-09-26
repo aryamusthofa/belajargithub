@@ -1,6 +1,6 @@
 # [Study With Web HTML and CSS in Github Project]
 
-<img src="blokbata.jpg" alt="Gambar Proyek Anda" width="100%">
+<img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">
 
 NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
 
@@ -93,7 +93,7 @@ lupakan saja, soalnya sedang proses updating
     <title>Informasi Kontak</title>  
     <style>  
         .contact-info {  
-            background-color: #fff;  
+            background-color: rgb(98, 88, 99);  
             border-radius: 8px;  
             padding: 20px;  
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);  
