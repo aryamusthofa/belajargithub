@@ -26,9 +26,16 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
 <h6>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
     <style>
         body {
             font-family: Qontra, Prime, Hyperbola, Radnika, Arial, sans-serif;
+                    head {  
+            font-weight: 700;  
+        }  
+        p {  
+            font-weight: 400;  
+        }  
             background-color: #ca99cf;
             margin: 0;
             padding: 80px;
