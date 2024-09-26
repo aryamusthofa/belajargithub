@@ -22,9 +22,69 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
         </a>
 </head>
 
-<head>
-            
-</head>
+
+<h6>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Form Pengisian ngetest Web</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f071e2;
+            margin: 0;
+            padding: 80px;
+        }
+        
+        .container {
+            max-width: 490px;
+            margin: auto;
+            background: #f7a1c7;
+            padding: 30px;
+            border-radius: 7px;
+            box-shadow: 0 0 20px rgba(255, 79, 179, 0.899);
+        }
+        
+        h2 {
+            text-align: center;
+            margin-bottom: 28px;
+        }
+        
+        label {
+            display: block;
+            margin-bottom: 60px;
+        }
+        
+        input[type="text"],
+        input[type="email"],
+        input[type="tel"],
+        textarea {
+            width: 60%;
+            padding: 7px;
+            margin-bottom: 12px;
+            border: 1px solid #f9617b;
+            border-radius: 3px;
+        }
+        
+        input[type="submit"] {
+            background-color: #5cb85c;
+            color: rgb(82, 204, 104);
+            border: none;
+            padding: 8px;
+            border-radius: 3px;
+            cursor: pointer;
+            width: 90%;
+        }
+        
+        input[type="submit"]:hover {
+            background-color: #4cae4c;
+        }
+        
+        .footer {
+            text-align: center;
+            margin-top: 800px;
+        }
+    </style>
+</h6>
 
 ## Deskripsi Singkat
 
