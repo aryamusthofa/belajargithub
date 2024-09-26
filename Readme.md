@@ -39,9 +39,32 @@ NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBS
             background-color: #ca99cf;
             margin: 0;
             padding: 80px;
+                    background-image: url('blokbata.jpg'); /* Ganti dengan path gambar Anda */  
+            background-size: cover; /* Menyesuaikan ukuran gambar agar menutupi seluruh background */  
+            background-position: center; /* Memusatkan gambar */  
+            background-repeat: no-repeat; /* Menghindari pengulangan gambar */  
+            display: flex; /* Mengatur flexbox untuk konten */  
+            justify-content: center; /* Memusatkan konten secara horizontal */  
+            align-items: center; /* Memusatkan konten secara vertikal */  
+            color: white; /* Mengatur warna teks menjadi putih */ 
         }
+                .content {  
+            text-align: center; /* Memusatkan teks */  
+            background-color: rgba(0, 0, 0, 0.5); /* Memberikan latar belakang transparan pada teks agar terlihat lebih baik di atas gambar */  
+            padding: 20px; /* Memberikan ruang di dalam konten */  
+            border-radius: 10px; /* Membuat sudut konten melengkung */  
+        }  
     </style>
 </h6>
+
+<body>  
+    <div class="content">  
+        <h1>Selamat Datang di Website Kami</h1>  
+        <p>Ini adalah contoh website dengan background gambar.</p>  
+        <p>Email: <a href="mailto:alamat@email.com" style="color: #1e88e5; text-decoration: none;">alamat@email.com</a></p>  
+        <p>Website: <a href="https://linkwebsite.com" target="_blank" style="color: #1e88e5; text-decoration: none;">linkwebsite.com</a></p>  
+    </div>  
+</body>  
 
 ## Deskripsi Singkat
 
