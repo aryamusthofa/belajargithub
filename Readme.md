@@ -2,9 +2,9 @@
 
 <img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">
 
-<title>
-            ## NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE
-</title>
+
+
+* ## NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE, OR CLICK THE LINK
 
 
 <h6>
@@ -50,11 +50,14 @@
     </div>  
 </body>  
 
-## Deskripsi Singkat
 
-[Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code html dan css.]
+## SEDANG DALAM MASA PERKEMBANGAN WEB
 
-## Fitur
+* ## Deskripsi Singkat
+
+* > [Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code html dan css.]
+
+* ## Fitur
 
 * [Fitur 1 Pengisian Form dan Pewarnaan Website]
 * [Fitur 2 Tombol Herf Link dan Tulisan Bergerak]
