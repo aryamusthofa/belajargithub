@@ -39,7 +39,7 @@
             /* Jarak antar tombol */
         }
         .button {
-            background-color: #1f1f1f;
+            background-color: rgba(98, 96, 96, 0.467);
             /* Warna latar tombol */
             color: #ffffff;
             /* Warna teks tombol */
@@ -51,7 +51,7 @@
             transition: background-color 0.3s, transform 0.3s;
         }
         .button:hover {
-            background-color: #3a3a3a;
+            background-color: rgba(98, 96, 96, 0.467);
             /* Warna tombol saat hover */
         }
         .button:active {
@@ -70,11 +70,18 @@
 <body>
     <div class="button-container">
         <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>
-        <button class="button" onclick="window.location.href='[Study With Web HTML and CSS in Github Project]'">KEMBALI KE PALING ATAS WEBSITE</button>
-        <button class="button" onclick="window.location.href='Semoga ini membantu Anda membuat README.md yang menarik dan bermanfaat!'">PERGI KE PALING BAWAH WEBSITE</button>
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">PERGI KE WEBSITE INI ALIAS REFRESH</button>
         <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>
         <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>
     </div>
+</body>
+
+<body>
+    test
+    .
+    .
+    .
+    test
 </body>
 
 <body>  
