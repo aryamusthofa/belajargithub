@@ -1,88 +1,67 @@
-# [Study With Web HTML and CSS in Github Project]
+# Study With Web HTML and CSS in Github Project  
 
-<img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">
+<img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">  
 
+## **NOTE:**   
+**Project ada di link di bawah, copy and paste link URL tersebut untuk membuka website, atau klik link di bawah ini.**  
 
-
-* ## NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE, OR CLICK THE LINK
-
-
-<h6>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: Qontra, 'Prime', 'Hyperbola', 'Radnika', 'Arial', 'Roboto', sans-serif;
-                    head {  
-            font-weight: 700;  
+<h6>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">  
+    <style>  
+        body {  
+            font-family: Qontra, 'Prime', 'Hyperbola', 'Radnika', 'Arial', 'Roboto', sans-serif;  
+            background-color: #ca99cf;  
+            margin: 0;  
+            padding: 80px;  
+            background-image: url('alammalam.jpg');   
+            background-size: cover;  
+            background-position: center;  
+            background-repeat: no-repeat;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            color: white;   
         }  
-        p {  
-            font-weight: 400;  
+        .button-container {  
+            display: flex;  
+            flex-direction: column;  
+            gap: 20px;   
         }  
-            background-color: #ca99cf;
-            margin: 0;
-            padding: 80px;
-                    background-image: url('alammalam.jpg'); /* Ganti dengan path gambar Anda */  
-            background-size: cover; /* Menyesuaikan ukuran gambar agar menutupi seluruh background */  
-            background-position: center; /* Memusatkan gambar */  
-            background-repeat: no-repeat; /* Menghindari pengulangan gambar */  
-            display: flex; /* Mengatur flexbox untuk konten */  
-            justify-content: center; /* Memusatkan konten secara horizontal */  
-            align-items: center; /* Memusatkan konten secara vertikal */  
-            color: white; /* Mengatur warna teks menjadi putih */ 
-        }
-        .button-container {
-            display: flex;
-            flex-direction: column;
-            gap: 20px;
-            /* Jarak antar tombol */
-        }
-        .button {
-            background-color: rgba(98, 96, 96, 0.467);
-            /* Warna latar tombol */
-            color: #ffffff;
-            /* Warna teks tombol */
-            padding: 15px 30px;
-            border: none;
-            border-radius: 5px;
-            cursor: pointer;
-            font-size: 18px;
-            transition: background-color 0.3s, transform 0.3s;
-        }
-        .button:hover {
-            background-color: rgba(98, 96, 96, 0.467);
-            /* Warna tombol saat hover */
-        }
-        .button:active {
-            transform: scale(0.95);
-            /* Efek saat tombol diklik */
-        }
-                .content {  
-            text-align: center; /* Memusatkan teks */  
-            background-color: rgba(0, 0, 0, 0.5); /* Memberikan latar belakang transparan pada teks agar terlihat lebih baik di atas gambar */  
-            padding: 20px; /* Memberikan ruang di dalam konten */  
-            border-radius: 10px; /* Membuat sudut konten melengkung */  
+        .button {  
+            background-color: rgba(98, 96, 96, 0.467);  
+            color: #ffffff;  
+            padding: 15px 30px;  
+            border: none;  
+            border-radius: 5px;  
+            cursor: pointer;  
+            font-size: 18px;  
+            transition: background-color 0.3s, transform 0.3s;  
         }  
-    </style>
-</h6>
+        .button:hover {  
+            background-color: rgba(98, 96, 96, 0.467);  
+        }  
+        .button:active {  
+            transform: scale(0.95);  
+        }  
+        .content {  
+            text-align: center;  
+            background-color: rgba(0, 0, 0, 0.5);  
+            padding: 20px;  
+            border-radius: 10px;  
+        }  
+    </style>  
+</h6>  
 
-<body>
-    <div class="button-container">
-        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>
-        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">PERGI KE WEBSITE INI ALIAS REFRESH</button>
-        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>
-        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>
-    </div>
-</body>
-
-<body>
-    test
-    .
-    .
-    .
-    test
-</body>
+<body>  
+    <div class="button-container">  
+        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">PERGI KE WEBSITE INI ALIAS REFRESH</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>  
+    </div>  
+</body>  
 
 <body>  
     <div class="content">  
@@ -93,20 +72,19 @@
     </div>  
 </body>  
 
+## SEDANG DALAM MASA PERKEMBANGAN WEB  
 
-## SEDANG DALAM MASA PERKEMBANGAN WEB
+### Deskripsi Singkat  
 
-* ## Deskripsi Singkat
+> Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code HTML dan CSS.  
 
-* > [Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code html dan css.]
+### Fitur  
 
-* ## Fitur
+- Fitur 1: Pengisian Form dan Pewarnaan Website  
+- Fitur 2: Tombol Herf Link dan Tulisan Bergerak  
+- Fitur 3: Besar Kecil Ukuran Text dan Tipenya  
 
-* [Fitur 1 Pengisian Form dan Pewarnaan Website]
-* [Fitur 2 Tombol Herf Link dan Tulisan Bergerak]
-* [Fitur 3 Besar Kecil Ukuran Text dan Tipenya]
-
-## Screenshot
+## Screenshot  
 
 <img src="blokbata.jpg" alt="Screenshot 1" width="50%"> <img src="blokbata.jpg" alt="Screenshot 2" width="50%">
 
