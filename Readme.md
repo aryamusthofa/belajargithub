@@ -32,6 +32,32 @@
             align-items: center; /* Memusatkan konten secara vertikal */  
             color: white; /* Mengatur warna teks menjadi putih */ 
         }
+        .button-container {
+            display: flex;
+            flex-direction: column;
+            gap: 20px;
+            /* Jarak antar tombol */
+        }
+        .button {
+            background-color: #1f1f1f;
+            /* Warna latar tombol */
+            color: #ffffff;
+            /* Warna teks tombol */
+            padding: 15px 30px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 18px;
+            transition: background-color 0.3s, transform 0.3s;
+        }
+        .button:hover {
+            background-color: #3a3a3a;
+            /* Warna tombol saat hover */
+        }
+        .button:active {
+            transform: scale(0.95);
+            /* Efek saat tombol diklik */
+        }
                 .content {  
             text-align: center; /* Memusatkan teks */  
             background-color: rgba(0, 0, 0, 0.5); /* Memberikan latar belakang transparan pada teks agar terlihat lebih baik di atas gambar */  
@@ -40,6 +66,16 @@
         }  
     </style>
 </h6>
+
+<body>
+    <div class="button-container">
+        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>
+        <button class="button" onclick="window.location.href='[Study With Web HTML and CSS in Github Project]'">KEMBALI KE PALING ATAS WEBSITE</button>
+        <button class="button" onclick="window.location.href='Semoga ini membantu Anda membuat README.md yang menarik dan bermanfaat!'">PERGI KE PALING BAWAH WEBSITE</button>
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>
+    </div>
+</body>
 
 <body>  
     <div class="content">  
