@@ -1,78 +1,112 @@
-# [Study With Web HTML and CSS in Github Project]
+# Study With Web HTML and CSS in Github Project  
 
-<img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">
+<img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">  
 
+## <font color="#fff" size=""> **NOTE:**   
+**Project ada di link di bawah, copy and paste link URL tersebut untuk membuka website, atau klik link di bawah ini.**  
 
-
-* ## NOTE: PROJECT ADA DI LINK DIBAWAH, COPY AND PASTE LINK URL TERSEBUT TO OPEN WEBSITE, OR CLICK THE LINK
-
-
-<h6>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-            <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">
-    <style>
-        body {
-            font-family: Qontra, 'Prime', 'Hyperbola', 'Radnika', 'Arial', 'Roboto', sans-serif;
-                    head {  
-            font-weight: 700;  
+<h6>  
+    <meta charset="UTF-8">  
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet">  
+    <style>  
+        body {  
+            font-family: Qontra, 'Prime', 'Hyperbola', 'Radnika', 'Arial', 'Roboto', sans-serif;  
+            background-color: #ca99cf;  
+            margin: 0;  
+            padding: 80px;  
+            background-image: url('alammalam.jpg');   
+            background-size: cover;  
+            background-position: center;  
+            background-repeat: no-repeat;  
+            display: flex;  
+            justify-content: center;  
+            align-items: center;  
+            color: white;   
         }  
-        p {  
-            font-weight: 400;  
+        .button-container {  
+            display: flex;  
+            flex-direction: column;  
+            gap: 10px;   
+            size: 4;
         }  
-            background-color: #ca99cf;
-            margin: 0;
-            padding: 80px;
-                    background-image: url('alammalam.jpg'); /* Ganti dengan path gambar Anda */  
-            background-size: cover; /* Menyesuaikan ukuran gambar agar menutupi seluruh background */  
-            background-position: center; /* Memusatkan gambar */  
-            background-repeat: no-repeat; /* Menghindari pengulangan gambar */  
-            display: flex; /* Mengatur flexbox untuk konten */  
-            justify-content: center; /* Memusatkan konten secara horizontal */  
-            align-items: center; /* Memusatkan konten secara vertikal */  
-            color: white; /* Mengatur warna teks menjadi putih */ 
-        }
-                .content {  
-            text-align: center; /* Memusatkan teks */  
-            background-color: rgba(0, 0, 0, 0.5); /* Memberikan latar belakang transparan pada teks agar terlihat lebih baik di atas gambar */  
-            padding: 20px; /* Memberikan ruang di dalam konten */  
-            border-radius: 10px; /* Membuat sudut konten melengkung */  
+        .button {  
+            background-color: rgba(98, 96, 96, 0.467);  
+            color: #ffffff;  
+            padding: 11px 32px;  
+            border: none;  
+            border-radius: 3px;  
+            cursor: pointer;  
+            font-size: 17px;  
+            transition: background-color 0.3s, transform 0.3s;  
         }  
-    </style>
-</h6>
+        .button:hover {  
+            background-color: rgba(98, 96, 96, 0.467);  
+        }  
+        .button:active {  
+            transform: scale(0.95);  
+        }  
+        .content {  
+            text-align: center; 
+            font-color: rgb(53, 47, 47); 
+            background-color: rgb(53, 47, 47, 0.5);  
+            padding: 20px;  
+            border-radius: 10px;  
+        }  
+    </style>  
+</h6>  
 
 <body>  
-    <div class="content">  
-        <h1>Selamat Datang di Website Kami</h1>  
-        <p>Ini adalah Project Lain dari Saya, Silahkan Dikunjungi.</p>  
-        <p>Website 1 Saya: <a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html" style="color: #1e88e5; text-decoration: none;">PROJECT WEBSITE LAIN #1</a></p>  
-        <p>Website 2 Saya: <a href="https://aryamusthofa.github.io/belajargithub/projectone.html" target="_blank" style="color: #1e88e5; text-decoration: none;">PROJECT WEBSITE LAIN #2</a></p>  
+    <div class="button-container">  
+        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">PERGI KE WEBSITE INI ALIAS REFRESH</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>  
     </div>  
 </body>  
 
+<h1>
+</h1>
+<body>  
+    <div class="content">  
+        <h1>Selamat Datang di Website Kami</h1>  
+        <p><font color="#d7dbca" size="4";> Ini adalah Project Lain dari Saya, Silahkan Dikunjungi.</font></p>  
+        <p><font color="#b1b5a4">Website 1 Saya: </font><a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html" style="color: #a79efb; text-decoration: none;">PROJECT WEBSITE LAIN #1</a></p>  
+        <p><font color="#b1b5a4">Website 2 Saya:</font> <a href="https://aryamusthofa.github.io/belajargithub/projectone.html" target="_blank" style="color: #a79efb; text-decoration: none;">PROJECT WEBSITE LAIN #2</a></p>  
+    </div>  
+</body> 
 
-## SEDANG DALAM MASA PERKEMBANGAN WEB
+<h1>
+<font color="#fff" type="sans-serif">
+## SEDANG DALAM MASA PERKEMBANGAN WEB  
+</font>
+</h1>
 
-* ## Deskripsi Singkat
+<font color="#fff" size="5">
+### Deskripsi Singkat  
+</font>
 
-* > [Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code html dan css.]
+ > <font size="4.5" color="#dfdfdf"> Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code HTML dan CSS.  </font>
 
-* ## Fitur
+### Fitur  
 
-* [Fitur 1 Pengisian Form dan Pewarnaan Website]
-* [Fitur 2 Tombol Herf Link dan Tulisan Bergerak]
-* [Fitur 3 Besar Kecil Ukuran Text dan Tipenya]
+- Fitur 1: Pengisian Form dan Pewarnaan Website  
+- Fitur 2: Tombol Herf Link dan Tulisan Bergerak  
+- Fitur 3: Besar Kecil Ukuran Text dan Tipenya  
 
-## Screenshot
+### Screenshots  
 
-<img src="blokbata.jpg" alt="Screenshot 1" width="50%"> <img src="blokbata.jpg" alt="Screenshot 2" width="50%">
+<img src="blokbata.jpg" alt="Screenshot 1" width="70%"> <img src="blokbata.jpg" alt="Screenshot 2" width="70%">
 
-## Instalasi
 
+## <font color="#ffffff"> Instalasi
+<font color="#fff">
 note: NGGAK TERLALU PENTING
 
+<font color="#fff">
 lupakan saja, soalnya sedang proses updating
 
+</font>
 
 <head>  
     <meta charset="UTF-8">  
@@ -80,7 +114,7 @@ lupakan saja, soalnya sedang proses updating
     <title>Informasi Kontak</title>  
     <style>  
         .contact-info {  
-            background-color: rgb(98, 88, 99);  
+            background-color: rgb(150, 150, 150, 0.7);  
             border-radius: 8px;  
             padding: 20px;  
             box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);  
@@ -90,10 +124,10 @@ lupakan saja, soalnya sedang proses updating
         }  
         p {  
             font-size: 16px;  
-            color: #666;  
+            color: #f0f0f0;  
         }  
         a {  
-            color: #1e88e5;  
+            color: #a79efb;  
             text-decoration: none;  
         }  
         a:hover {  
@@ -109,13 +143,20 @@ lupakan saja, soalnya sedang proses updating
     </div>  
 </body>  
 
+<body>
+test
+.
+.
+.
+test
+</body>
 
 ```bash
 # Install dependensi
 - -
 
 # Jalankan aplikasi
-- -
+--
 Cara Penggunaan
 [Jelaskan langkah-langkah untuk menggunakan aplikasi atau proyek Anda di sini.]
 
