@@ -2,7 +2,11 @@
 
 <img src="kotahytam.jpg" alt="Gambar Proyek Anda" width="100%">  
 
+<<<<<<< HEAD
 ## <font color="#fff" size=""> **NOTE:**   
+=======
+## **NOTE:**   
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
 **Project ada di link di bawah, copy and paste link URL tersebut untuk membuka website, atau klik link di bawah ini.**  
 
 <h6>  
@@ -27,17 +31,29 @@
         .button-container {  
             display: flex;  
             flex-direction: column;  
+<<<<<<< HEAD
             gap: 10px;   
             size: 4;
+=======
+            gap: 20px;   
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
         }  
         .button {  
             background-color: rgba(98, 96, 96, 0.467);  
             color: #ffffff;  
+<<<<<<< HEAD
             padding: 11px 32px;  
             border: none;  
             border-radius: 3px;  
             cursor: pointer;  
             font-size: 17px;  
+=======
+            padding: 15px 30px;  
+            border: none;  
+            border-radius: 5px;  
+            cursor: pointer;  
+            font-size: 18px;  
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
             transition: background-color 0.3s, transform 0.3s;  
         }  
         .button:hover {  
@@ -47,14 +63,31 @@
             transform: scale(0.95);  
         }  
         .content {  
+<<<<<<< HEAD
             text-align: center; 
             font-color: rgb(53, 47, 47); 
             background-color: rgb(53, 47, 47, 0.5);  
+=======
+            text-align: center;  
+            background-color: rgba(0, 0, 0, 0.5);  
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
             padding: 20px;  
             border-radius: 10px;  
         }  
     </style>  
 </h6>  
+<<<<<<< HEAD
+=======
+
+<body>  
+    <div class="button-container">  
+        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">GITHUB SIMPANAN PROJECT WEBSITE INI</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">PERGI KE WEBSITE INI ALIAS REFRESH</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT AWAL SAYA HANYA UNTUK PERCOBAAN</button>  
+        <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT KEDUA SAYA DALAM PERKEMBANGAN</button>  
+    </div>  
+</body>  
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
 
 <body>  
     <div class="button-container">  
@@ -65,6 +98,7 @@
     </div>  
 </body>  
 
+<<<<<<< HEAD
 <h1>
 </h1>
 <body>  
@@ -95,6 +129,21 @@
 - Fitur 3: Besar Kecil Ukuran Text dan Tipenya  
 
 ### Screenshots  
+=======
+## SEDANG DALAM MASA PERKEMBANGAN WEB  
+
+### Deskripsi Singkat  
+
+> Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code HTML dan CSS.  
+
+### Fitur  
+
+- Fitur 1: Pengisian Form dan Pewarnaan Website  
+- Fitur 2: Tombol Herf Link dan Tulisan Bergerak  
+- Fitur 3: Besar Kecil Ukuran Text dan Tipenya  
+
+## Screenshot  
+>>>>>>> 8cd797b99d9caba7847b7a48b672c8e8a33b0af8
 
 <img src="blokbata.jpg" alt="Screenshot 1" width="70%"> <img src="blokbata.jpg" alt="Screenshot 2" width="70%">
 
