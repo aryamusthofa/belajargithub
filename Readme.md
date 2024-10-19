@@ -77,13 +77,10 @@
 </body> 
 
 
-## <h1> <font color="#fff" type="sans-serif"> WEB INI SEDANG DALAM MASA PERKEMBANGAN  
-</font>
-</h1>
+## <h1> <font color="#fff" type="sans-serif"> WEB INI SEDANG DALAM MASA PERKEMBANGAN </font> </h1>
 
 
-### <font color="#fff" size="5"> Deskripsi Singkat  
-</font>
+### <font color="#fff" size="5"> Deskripsi Singkat </font>
 
  > <font size="4.5" color="#dfdfdf"> Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code HTML dan CSS mungkin juga ada JS nya juga untuk from pengisian.  </font>
 
