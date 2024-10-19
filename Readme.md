@@ -58,8 +58,8 @@
 
 <body>  
     <div class="button-container">  
-        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">REPOSITORI GITHUB SAYA</button>  
         <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub'">REFRESH HALAMAN</button>  
+        <button class="button" onclick="window.location.href='https://github.com/aryamusthofa/belajargithub/'">REPOSITORI GITHUB SAYA</button>  
         <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/newfileproj.html'">PROJECT WEBSITE PERTAMA</button>  
         <button class="button" onclick="window.location.href='https://aryamusthofa.github.io/belajargithub/projectone.html'">PROJECT WEBSITE KEDUA</button>  
     </div>  
@@ -70,20 +70,19 @@
 <body>  
     <div class="content">  
         <h1>Selamat Datang di Website Kami</h1>  
-        <p><font color="#d7dbca" size="4";> Ini adalah Project Web Lain Saya, Silahkan Mampir.</font></p>  
+        <p> <font color="#d7dbca" size="4"> Ini adalah Project Web Lain Saya, Silahkan Mampir. </font> </p>  
         <p><font color="#b1b5a4">Website 1 Saya: </font><a href="https://aryamusthofa.github.io/belajargithub/newfileproj.html" style="color: #a79efb; text-decoration: none;">PROJECT WEBSITE LAIN #1</a></p>  
         <p><font color="#b1b5a4">Website 2 Saya:</font> <a href="https://aryamusthofa.github.io/belajargithub/projectone.html" target="_blank" style="color: #a79efb; text-decoration: none;">PROJECT WEBSITE LAIN #2</a></p>  
     </div>  
 </body> 
 
-<h1>
-<font color="#fff" type="sans-serif">
-## WEB INI SEDANG DALAM MASA PERKEMBANGAN  
+
+## <h1> <font color="#fff" type="sans-serif"> WEB INI SEDANG DALAM MASA PERKEMBANGAN  
 </font>
 </h1>
 
-<font color="#fff" size="5">
-### Deskripsi Singkat  
+
+### <font color="#fff" size="5"> Deskripsi Singkat  
 </font>
 
  > <font size="4.5" color="#dfdfdf"> Ini adalah pemrograman web, Mapel jurusan RPL ku dan sedang dalam perkembangan. Bertujuan untuk belajar Mengembangkan website dengan tampilan Semenarik mungkin dengan code HTML dan CSS mungkin juga ada JS nya juga untuk from pengisian.  </font>
